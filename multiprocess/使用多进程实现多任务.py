@@ -22,4 +22,4 @@ if __name__ == "__main__":
     sing_process = multiprocessing.Process(target=sing)
     dance_process = multiprocessing.Process(target=dance)
     sing_process.start()
-    dance_process.start()
+    dance_process.start()faweg
